@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.exint_github_globalscript2</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>exint_github_globalscript2</name>
+        <script><![CDATA[var exint_github_globalscript2 = Class.create();
+exint_github_globalscript2.prototype = {
+    initialize: function() {
+    },
+//hi some featuring
+    type: 'exint_github_globalscript2'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-27 06:04:42</sys_created_on>
+        <sys_id>5ccbafd6076130105a0efe4f7c1ed08a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>exint_github_globalscript2</sys_name>
+        <sys_package display_value="githubactionhub" source="fbda3b86072130105a0efe4f7c1ed0e7">fbda3b86072130105a0efe4f7c1ed0e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="githubactionhub">fbda3b86072130105a0efe4f7c1ed0e7</sys_scope>
+        <sys_update_name>sys_script_include_5ccbafd6076130105a0efe4f7c1ed08a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-27 06:04:42</sys_updated_on>
+    </sys_script_include>
+</record_update>
