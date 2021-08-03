@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="DealerTrack CMS/RTS Business Compliance Request">b9c7d783072530105a0efe4f7c1ed0a0</catalog_item>
+        <catalog_variable>IO:2ecc13c7072530105a0efe4f7c1ed0c2</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-29 13:37:24</sys_created_on>
+        <sys_id>7ff62b43076530105a0efe4f7c1ed0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>which_category_best_describes_your_request</sys_name>
+        <sys_package display_value="githubactionhub" source="fbda3b86072130105a0efe4f7c1ed0e7">fbda3b86072130105a0efe4f7c1ed0e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="githubactionhub">fbda3b86072130105a0efe4f7c1ed0e7</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_7ff62b43076530105a0efe4f7c1ed0cf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-29 13:37:24</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Is this regarding an internal or external Compliance item? = External">b5866f03076530105a0efe4f7c1ed01a</ui_policy>
+        <variable>which_category_best_describes_your_request</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>
